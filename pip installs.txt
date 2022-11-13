@@ -1,0 +1,12 @@
+python 3.10.4
+pip 22.0.4
+
+numpy 1.23.4
+matplotlib 3.6.2
+pandas 1.5.1
+pandas 0.12.1
+fancyimpute 0.7.0
+imblearn 0.0
+sklearn 0.0
+xgboost 1.7.0
+keras 2.10.0
